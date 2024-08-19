@@ -101,6 +101,7 @@
   background-size: cover, cover;
   background-position: center, center;
   overflow: hidden;
+  border-radius: 10px;
 
   // やわらかい光の効果を追加
   &::after {
