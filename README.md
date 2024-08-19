@@ -1,7 +1,6 @@
 # 🧸Quantum Bears' Cafe☕: Galactic Defense Brewmasters
 
 
-★ScreenshotやAIのイメージビジュアルなどを適宜追加
 
 **量子もつれカプチーノで宇宙の神秘に触れる。スペシャルなあなたのカフェで紡ぐ、銀河の物語。**
 
